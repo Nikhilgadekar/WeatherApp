@@ -1,11 +1,10 @@
 
 import './App.css';
-import WeatherApp from './weatherApp';
-
+import MainPage from './MainPage';
 function App() {
   return (
     <div className="App">
-      <WeatherApp />
+      <MainPage />
     </div>
   );
 }
